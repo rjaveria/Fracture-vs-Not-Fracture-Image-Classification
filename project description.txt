@@ -1,0 +1,21 @@
+Medical imaging to analyze and detect different diseases and problems now a day an emerging field.
+In this project we will design automated techniques and methods to analyze and detect bone fracture
+from X-ray images. X-ray images when examined manually it is time consuming and prone to errors.
+So our proposed system is able to detect fracture more accurately. images are a crucial resource for
+assessing the severity and prediction of bone injuries caused by trauma or accident. Fracture
+detection in long bones is a very challenging task due to the limited resolution of the original X-Ray
+images, as well as the complexity of bone structures and their possible fractures. So our proposed
+automated bone fracture detection system will work on these aspects.
+Functional Requirements:
+The system should have the following features:
+• Image Datasets are maintained.
+• Image is selected for examine.
+• Image is shown as real image and then focused or noise removed image
+• Noise is removed from the image and image is transformed to clearer image so that system
+• Image is shown as real image and then focused or noise removed image
+• Noise is removed from the image and image is transformed to clearer image so that system
+can easily detect fracture
+• Clearer image is used to detect fracture
+• System detects fracture based on the type of fracture.
+ 1.fracture
+ 2. Non fracture
